@@ -138,6 +138,7 @@
 | [**FastGPT**](https://github.com/labring/FastGPT) | 优点：知识库功能强大，低代码平台<br>缺点：部署要求较高 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**ChatGPT Next Web**](https://github.com/Yidadaa/ChatGPT-Next-Web) | 优点：轻量级，跨平台支持好<br>缺点：功能相对基础 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**new-api**](https://github.com/Calcium-Ion/new-api) | 优点：支持多种AI服务，API管理方便<br>缺点：需要一定配置经验 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
+| [**Dify**](https://github.com/langgenius/dify) | 优点：开源LLM应用开发平台，集成RAG、Agent、工作流等<br>缺点：高级功能学习曲线较高 | <img src="image/label/free.png" width="48" alt="免费"/> / <img src="image/label/paid.png" width="48" alt="付费"/><br> (云服务) | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 
 ## 🏡 智能家居
 
@@ -173,6 +174,7 @@
 | [**Gitea**](https://gitea.io/) | 优点：轻量级，资源需求低<br>缺点：部分高级功能缺失 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**Portainer**](https://www.portainer.io/) | 优点：Docker管理直观，操作简便<br>缺点：高级功能社区版缺失 | <img src="image/label/free.png" width="48" alt="免费"/> (社区版) / <img src="image/label/paid.png" width="48" alt="付费"/><br> (企业版) | <img src="image/label/closed_source.png" width="48" alt="闭源"/> |
 | [**RustDesk**](https://rustdesk.com/) | 优点：自托管，安全性高，跨平台<br>缺点：功能相比商业软件略少 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
+| [**n8n**](https://github.com/n8n-io/n8n) | 优点：可视化工作流自动化平台，集成多种服务<br>缺点：复杂流程配置学习曲线较陡 | <img src="image/label/free.png" width="48" alt="免费"/> / <img src="image/label/paid.png" width="48" alt="付费"/><br> (云服务) | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**markitdown**](https://github.com/microsoft/markitdown) | 优点：微软出品，体验流畅<br>缺点：开发中，可能不稳定 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 
 ## 🌍 网络服务
@@ -190,7 +192,7 @@
 | 名称 | 优缺点 | 价格 | 开源 |
 |------|------|------|------|
 | [**2FAuth**](https://github.com/Bubka/2FAuth) | 优点：自托管增加安全性，界面美观<br>缺点：需要额外维护 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
-| [**Bitwarden**](https://bitwarden.com/) | 优点：开源安全，跨平台支持全<br>缺点：自托管配置略复杂 | <img src="image/label/free.png" width="48" alt="免费"/>  | <img src="image/label/open_source.png" width="48" alt="开源"/> |
+| [**Vaultwarden**](https://github.com/dani-garcia/vaultwarden) | 优点：Bitwarden的轻量级替代，资源占用少，兼容官方客户端<br>缺点：部分企业功能缺失 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**WatchTower**](https://github.com/containrrr/watchtower) | 优点：自动更新容器，维护简单<br>缺点：可能导致服务中断 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**Homarr**](https://homarr.dev/) | 优点：现代UI，整合服务方便<br>缺点：自定义深度有限 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**Dockge**](https://github.com/louislam/dockge) | 优点：Docker Compose可视化，使用简单<br>缺点：功能相对基础 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
@@ -205,6 +207,7 @@
 | [**Daily Hot API**](https://github.com/imsyy/DailyHotApi) | 优点：热门内容聚合全面，使用便捷<br>缺点：依赖第三方数据源 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**Douban RSS**](https://github.com/xiaobaiya8/Douban-RSS) | 优点：将豆瓣内容转为RSS，更新及时<br>缺点：受豆瓣限制影响 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**RSSHub**](https://github.com/DIYgod/RSSHub) | 优点：支持内容源最广泛，定制性强<br>缺点：部分源稳定性受影响 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
+| [**Tiny Tiny RSS**](https://tt-rss.org/) | 优点：成熟稳定的RSS阅读器，自托管方便，功能全面<br>缺点：界面相对朴素，移动端体验一般 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 
 ## 🤝 贡献
 
