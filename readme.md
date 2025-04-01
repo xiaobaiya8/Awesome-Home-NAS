@@ -103,10 +103,11 @@
 
 | 名称 | 优缺点 | 价格 | 开源 |
 |------|------|------|------|
-| [**CloudDrive2**](https://github.com/cloud-fs/cloudfs) | 优点：性能较好，支持多种网盘<br>缺点：配置有一定复杂度 | <img src="image/label/free.png" width="48" alt="免费"/> / <img src="image/label/paid.png" width="48" alt="付费"/><br> ¥4.99/月，¥49.99/年，¥199/轻享，¥499/终身，¥299/视障用户终身 | <img src="image/label/open_source.png" width="48" alt="开源"/> |
+| [**CloudDrive2**](https://github.com/cloud-fs/cloudfs) | 优点：性能较好，支持多种网盘<br>缺点：配置有一定复杂度 | <img src="image/label/free.png" width="48" alt="免费"/> / <img src="image/label/paid.png" width="48" alt="付费"/><br> ¥4.99/月，¥49.99/年，¥199/轻享，¥499/终身，¥299/视障用户终身 | <img src="image/label/closed_source.png" width="48" alt="闭源"/> |
 | [**AList**](https://github.com/alist-org/alist) | 优点：支持多种存储，webdav支持好<br>缺点：挂载性能受网络影响大 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
 | [**Rclone**](https://rclone.org/) | 优点：功能强大，支持云存储种类最多<br>缺点：命令行操作门槛高 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
-| [**Symedia**](https://github.com/shenxianmq/Symedia) | 优点：结合媒体刮削功能，针对媒体库优化<br>缺点：专注度较窄 | <img src="image/label/free.png" width="48" alt="免费"/> / <img src="image/label/paid.png" width="48" alt="付费"/><br> ¥169/终身 | <img src="image/label/open_source.png" width="48" alt="开源"/> |
+| [**Auto_Symlink**](https://github.com/shenxianmq/Auto_Symlink) | 优点：自动监控创建软链接，提升媒体库加载效率，减少网盘访问<br>缺点：需要配合CloudDrive2使用效果最佳 | <img src="image/label/free.png" width="48" alt="免费"/> | <img src="image/label/open_source.png" width="48" alt="开源"/> |
+| [**Symedia**](https://github.com/shenxianmq/Symedia) | 优点：Auto_Symlink的升级版，结合媒体刮削功能，针对媒体库优化<br>缺点：相比免费版功能更强大但需付费 | <img src="image/label/free.png" width="48" alt="免费"/> / <img src="image/label/paid.png" width="48" alt="付费"/><br> ¥169/终身 | <img src="image/label/closed_source.png" width="48" alt="闭源"/> |
 
 ### 🔄 网盘自动化工具
 
